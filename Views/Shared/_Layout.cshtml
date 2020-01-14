@@ -1,6 +1,7 @@
 ﻿<!DOCTYPE html>
 <html>
 <head>
+    <base href="/" />
     <title>Dutch Treat: @ViewBag.Title</title>
     <link href="~/node_modules/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
     <link href="~/node_modules/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
@@ -16,14 +17,29 @@
             <div id="theMenu" class="navbar-collapse collapse">
                 <ul class="navbar-nav">
                     <li class="navbar-item">
-                    <a class="nav-link" asp-controller="App" asp-action="Index">Home</a>
+                        <a class="nav-link" asp-controller="App" asp-action="Index">Home</a>
                     </li>
                     <li class="navbar-item">
-                    <a class="nav-link" asp-controller="App" asp-action="Contact">Contact</a>
+                        <a class="nav-link" asp-controller="App" asp-action="Contact">Contact</a>
                     </li>
                     <li class="navbar-item">
-                    <a class="nav-link" asp-controller="App" asp-action="About">About</a>
+                        <a class="nav-link" asp-controller="App" asp-action="About">About</a>
                     </li>
+                    <li class="navbar-item">
+                        <a class="nav-link" asp-controller="App" asp-action="Shop">Shop</a>
+                    </li>
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        <li class="navbar-item">
+                            <a class="nav-link" asp-controller="Account" asp-action="Logout">Logout</a>
+                        </li>
+                    }
+                    else
+                    {
+                        <li class="navbar-item">
+                            <a class="nav-link" asp-controller="Account" asp-action="Login">Login</a>
+                        </li>
+                    }
                 </ul>
             </div>
         </nav>
