@@ -1,0 +1,289 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\clientapp\\favicon.ico",
+      "PackagePath": "staticwebassets\\clientapp\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\clientapp\\index.html",
+      "PackagePath": "staticwebassets\\clientapp\\index.html"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\clientapp\\main-es2015.js",
+      "PackagePath": "staticwebassets\\clientapp\\main-es2015.js"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\clientapp\\main-es2015.js.map",
+      "PackagePath": "staticwebassets\\clientapp\\main-es2015.js.map"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\clientapp\\main-es5.js",
+      "PackagePath": "staticwebassets\\clientapp\\main-es5.js"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\clientapp\\main-es5.js.map",
+      "PackagePath": "staticwebassets\\clientapp\\main-es5.js.map"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\clientapp\\polyfills-es2015.js",
+      "PackagePath": "staticwebassets\\clientapp\\polyfills-es2015.js"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\clientapp\\polyfills-es2015.js.map",
+      "PackagePath": "staticwebassets\\clientapp\\polyfills-es2015.js.map"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\clientapp\\polyfills-es5.js",
+      "PackagePath": "staticwebassets\\clientapp\\polyfills-es5.js"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\clientapp\\polyfills-es5.js.map",
+      "PackagePath": "staticwebassets\\clientapp\\polyfills-es5.js.map"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\clientapp\\runtime-es2015.js",
+      "PackagePath": "staticwebassets\\clientapp\\runtime-es2015.js"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\clientapp\\runtime-es2015.js.map",
+      "PackagePath": "staticwebassets\\clientapp\\runtime-es2015.js.map"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\clientapp\\runtime-es5.js",
+      "PackagePath": "staticwebassets\\clientapp\\runtime-es5.js"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\clientapp\\runtime-es5.js.map",
+      "PackagePath": "staticwebassets\\clientapp\\runtime-es5.js.map"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\clientapp\\styles-es2015.js",
+      "PackagePath": "staticwebassets\\clientapp\\styles-es2015.js"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\clientapp\\styles-es2015.js.map",
+      "PackagePath": "staticwebassets\\clientapp\\styles-es2015.js.map"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\clientapp\\styles-es5.js",
+      "PackagePath": "staticwebassets\\clientapp\\styles-es5.js"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\clientapp\\styles-es5.js.map",
+      "PackagePath": "staticwebassets\\clientapp\\styles-es5.js.map"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\clientapp\\vendor-es2015.js",
+      "PackagePath": "staticwebassets\\clientapp\\vendor-es2015.js"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\clientapp\\vendor-es2015.js.map",
+      "PackagePath": "staticwebassets\\clientapp\\vendor-es2015.js.map"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\clientapp\\vendor-es5.js",
+      "PackagePath": "staticwebassets\\clientapp\\vendor-es5.js"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\clientapp\\vendor-es5.js.map",
+      "PackagePath": "staticwebassets\\clientapp\\vendor-es5.js.map"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\img\\SK-A-1595.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-1595.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\img\\SK-A-1935.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-1935.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\img\\SK-A-2344.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-2344.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\img\\SK-A-2351.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-2351.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\img\\SK-A-2391.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-2391.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\img\\SK-A-2860.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-2860.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\img\\SK-A-3066.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-3066.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\img\\SK-A-3137.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-3137.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\img\\SK-A-3138.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-3138.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\img\\SK-A-3262.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-3262.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\img\\SK-A-3276.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-3276.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\img\\SK-A-3298.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-3298.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\img\\SK-A-3307.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-3307.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\img\\SK-A-3340.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-3340.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\img\\SK-A-3341.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-3341.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\img\\SK-A-3477.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-3477.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\img\\SK-A-358.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-358.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\img\\SK-A-3934.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-3934.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\img\\SK-A-3981.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-3981.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\img\\SK-A-3982.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-3982.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\img\\SK-A-4019.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-4019.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\img\\SK-A-4050.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-4050.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\img\\SK-A-4057.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-4057.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\img\\SK-A-4096.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-4096.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\img\\SK-A-4119.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-4119.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\img\\SK-A-4674.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-4674.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\img\\SK-A-4691.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-4691.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\img\\SK-A-4717.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-4717.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\img\\SK-A-4833.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-4833.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\img\\SK-A-4885.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-4885.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\img\\SK-A-5033.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-5033.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\img\\SK-A-91.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-A-91.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\img\\SK-C-1747.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-C-1747.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\img\\SK-C-1768.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-C-1768.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\img\\SK-C-216.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-C-216.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\img\\SK-C-251.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-C-251.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\img\\SK-C-5.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-C-5.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\img\\SK-C-597.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-C-597.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\img\\SK-C-6.jpg",
+      "PackagePath": "staticwebassets\\img\\SK-C-6.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\img\\VanGogh.jpg",
+      "PackagePath": "staticwebassets\\img\\VanGogh.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\js\\index.js",
+      "PackagePath": "staticwebassets\\js\\index.js"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\ts\\main.ts",
+      "PackagePath": "staticwebassets\\ts\\main.ts"
+    },
+    {
+      "Id": "C:\\Repos\\DutchTreat\\wwwroot\\ts\\storecustomer.ts",
+      "PackagePath": "staticwebassets\\ts\\storecustomer.ts"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.DutchTreat.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.DutchTreat.props",
+      "PackagePath": "build\\DutchTreat.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.DutchTreat.props",
+      "PackagePath": "buildMultiTargeting\\DutchTreat.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.DutchTreat.props",
+      "PackagePath": "buildTransitive\\DutchTreat.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
